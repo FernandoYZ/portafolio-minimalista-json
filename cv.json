@@ -83,15 +83,47 @@
       "url": "https://publication.com",
       "summary": "Description…"
     }],
-    "skills": [{
+    "skills": [
+    {
       "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }],
+      "level": "Intermediate"
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "category": "Database"
+    },
+    {
+      "name": "ETL",
+      "level": "Beginner",
+      "category": "Data Engineering"
+    },
+    {
+      "name": "APIs",
+      "level": "Intermediate",
+      "category": "Backend Development"
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "category": "Backend Development"
+    },
+    {
+      "name": "Django",
+      "level": "Intermediate",
+      "category": "Backend Development"
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "category": "Version Control"
+    }
+  ],
     "languages": [{
       "language": "English",
       "fluency": "Native speaker"
