@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Fernando Yovera Zavala",
-      "label": "Enfoque en desarrollo backend y habilidades básicas en redes de comunicación. Poseo conocimientos prácticos en programación, manejo de bases de datos y diseño de interfaces web.",
+      "label": "Ingeniero de Sistemas",
       "image": "https://avatars.githubusercontent.com/u/141245158?s=400&u=211fb7c6faee2694160158670e430ac37ef6dbeb&v=4",
       "email": "fernandozavala266@gmail.com",
       "phone": "(+51) 940 466 753",
       "url": "",
-      "summary": "Soy estudiante del VII ciclo en la carrera profesional de Ingeniería de Sistemas en la Universidad Nacional de Cañete, con un enfoque en desarrollo backend y habilidades básicas en redes de comunicación. Poseo conocimientos prácticos en programación, manejo de bases de datos y diseño de interfaces web. Estoy motivado para aplicar y expandir mis conocimientos en un entorno profesional, contribuyendo al éxito y la eficiencia de la organización.",
+      "summary": "Estudiante del VII ciclo de la carrera profesional de Ingeniería de Sistemas en la Universidad Nacional de Cañete, con un enfoque en desarrollo backend. Poseo conocimientos prácticos en programación, manejo de bases de datos y diseño de interfaces web. Estoy motivado para aplicar y expandir mis conocimientos en un entorno profesional.",
       "location": {
         "address": "Urb. Libertad, B-17",
         "postalCode": "CA 94115",
@@ -31,11 +31,11 @@
     ]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "name": "Caritas",
+      "position": "Practicante",
+      "url": "",
+      "startDate": "2023-07-19",
+      "endDate": "2023-09-21",
       "summary": "Description…",
       "highlights": [
         "Started the company"
