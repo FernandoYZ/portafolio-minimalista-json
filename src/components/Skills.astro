@@ -18,9 +18,13 @@ import { skills } from "@cv"
 
 <style>
     ul {
-        display: inline-flex;
-        gap: 8px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap; 
+    padding: 0;
+    list-style-type: none;
     }
+
     li {
         border-radius: 6px;
         background: #414653;
@@ -28,8 +32,23 @@ import { skills } from "@cv"
         font-size: 0.8rem;
         font-weight: 500;
         padding: 0.5rem 0.7rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+        max-width: 150px;
+        overflow: hidden;
+        text-align: center;
     }
+
+    li span {
+        white-space: nowrap;
+        overflow: hidden; 
+        text-overflow: ellipsis;
+    }
+
     li:hover {
         background: #70747d;
     }
+
 </style>

@@ -37,6 +37,7 @@
       "startDate": "2023-07-19",
       "endDate": "2023-09-21",
       "summary": "Description…",
+      "modality": "Híbrido",
       "highlights": [
         "Started the company"
       ]
@@ -53,12 +54,12 @@
       ]
     }],
     "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "institution": "Universidad Nacional de Cañete",
+      "url": "",
+      "area": "Ingeniería de Sistemas",
+      "studyType": "Estudiante",
+      "startDate": "2021-03-17",
+      "endDate": "",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
